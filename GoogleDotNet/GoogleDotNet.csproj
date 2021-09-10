@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Whit Waldo</Authors>
+    <Company>Innovian</Company>
+    <Description>Part of a larger refreshed look on interfacing with Google's various APIs from .NET. This package provides common classes to be used by packages in the larger collection. Note that this is not an official Google package and we are not affiliated in any way with Google.</Description>
+    <Copyright>2021</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>
